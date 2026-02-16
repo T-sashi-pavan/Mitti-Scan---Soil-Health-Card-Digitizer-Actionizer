@@ -1,0 +1,12 @@
+# Git mailmap - Consolidate contributor identities
+# This maps alternative names/emails to canonical identities
+
+# Map any cursoragent commits to actual authors
+T-sashi-pavan <sessi111111@gmail.com> cursoragent <*>
+T-sashi-pavan <sessi111111@gmail.com> Cursor Agent <*>
+suryajonnala1234-svg <suryajonnala1234@gmail.com> cursoragent <*>
+suryajonnala1234-svg <suryajonnala1234@gmail.com> Cursor Agent <*>
+
+# Canonical identities
+T-sashi-pavan <sessi111111@gmail.com> sashi <sessi111111@gmail.com>
+suryajonnala1234-svg <suryajonnala1234@gmail.com> Teja Jonnala <suryajonnala1234@gmail.com>
